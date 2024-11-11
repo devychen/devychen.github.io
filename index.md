@@ -5,7 +5,8 @@ layout: homepage
 ## About Me
 
 Currently I am a Master student in Computational Linguistics at the Univeristy of Tuebingen. <br>
-I obtained my first Master degree at University of Oxford (UK) and the Bachelor degree at the University of Manchester (UK). I have worked at ByteDance as a marketer at Game Publishing Business Sector for almost 2 years. Previously also an assistant consultant at Roland Berger and a TV producer at Mango TV.
+I also hold these degrees: MSc in Sociology at University of Oxford (UK), BA in Linguistics and Sociology at the University of Manchester (UK). <br>
+I have worked at ByteDance as a marketer at Game Publishing Business Sector for almost 2 years. Previously also an assistant consultant at Roland Berger and a TV producer at Mango TV.
 
 ## Research Interests
 
