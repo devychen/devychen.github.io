@@ -1,19 +1,123 @@
 ---
-layout: homepage
+layout: default
 ---
 
-<h1 id="about-me"></h1>
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-<h2 style="margin: 80px 0px 10px;"></h2>
+[Link to another page](./another-page.html).
 
-I am an Assistant Professor in the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/).
+There should be whitespace between paragraphs.
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-Previously, I completed my PhD in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) and my BS in Electronic Information Engineering at [Tianjin University](http://www.tju.edu.cn/english/index.htm). I also spent time at [Johns Hopkins](https://ccvl.jhu.edu/), [Oxford VGG](https://www.robots.ox.ac.uk/~vgg/), and [National University of Singapore](https://www.comp.nus.edu.sg/). My biography is [here](./biography/).
+# Header 1
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am actively looking for self-motivated Ph.D. students with interests in computer vision and machine learning. If you are interested, please send me an email. You may see details [here](./openings/).</strong>
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-{% include_relative _includes/news.md %}
+## Header 2
 
-{% include_relative _includes/contact.md %}
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
