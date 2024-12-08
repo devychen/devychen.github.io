@@ -17,7 +17,13 @@ I have worked at ByteDance as a marketer at Game Publishing Business Sector for 
 
 - **Marketing:** Sino-European market.
 - **Entertainment:** Games, dramas, TV shows.
+- **Wildlife Conservation**
 
+## Projects
+**Experiencing Co-Creativity: The Practice and Evaluation of Writing Reality Show Scripts with ChatGPT-3.5 by Professionals**  
+Github [Access](https://github.com/devychen/Course_LLM_Implications)
+
+<!-- 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/services.md %} -->
