@@ -16,7 +16,7 @@ I have worked at ByteDance as a marketer at Game Publishing Business Sector for 
 ## Professional Interests
 
 - **Marketing:** Sino-European market.
-- **Entertainment:** Games, dramas, TV shows.
+- **Product Management:** Game products, AI products, Digital products.
 - **Wildlife Conservation**
 
 ## Projects
