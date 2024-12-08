@@ -24,7 +24,7 @@ I have worked at ByteDance as a marketer at Game Publishing Business Sector for 
 **A Gradient Adjust Approach to Machine Unlearning** (In progress. For SemEval 2025)  
 Github [Access](https://github.com/cicl-iscl/Machine_Unlearning) 
 
-**An AI-Support Education System for International Students to Germany**   (In progress.)
+**An AI-Support Education System for International Students to Germany** (In progress)  
 Github [Access](https://github.com/devychen/Course_AIEd_System)
 
 **Experiencing Co-Creativity: The Practice and Evaluation of Writing Reality Show Scripts with ChatGPT-3.5 by Professionals**  
