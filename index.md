@@ -6,20 +6,29 @@ layout: homepage
 
 Currently I am a Master student in Computational Linguistics at the Univeristy of Tuebingen. <br>
 
-I also hold these degrees: MSc in Sociology at University of Oxford (UK), BA in Linguistics and Sociology at the University of Manchester (UK). <br>
+I also hold these degrees: _MSc in Sociology_ at University of Oxford (UK), 
+_BA in Linguistics and Sociology_ at the University of Manchester (UK). <br>
 
-I have worked at ByteDance as a marketer at Game Publishing Business Sector for almost 2 years. Previously also an assistant consultant at Roland Berger and a TV producer at Mango TV (consider it as the Netflix in China).
+I have worked at ByteDance as a marketer at Game Publishing Business Sector for almost 2 years. 
+Previously also an assistant consultant at Roland Berger and A.T.Kearney, and a TV producer at Mango TV (consider it as the Netflix in China).
 
 ## Research Interests
 
-- **Multi-Agent Simulations:** Multiple AI NPC.
+- **LLM-Based Agent Simulations:** AI NPC.
 - **Machine Learning:** Machine Unlearning.
 
 ## Professional Interests
 
-- **Product Management:** Game products, AI products, Digital products.
-- **Marketing:** Sino-European market.
-- **Wildlife Conservation**
+- **Product Management:** Game products, AI products.
+- **Marketing:** Sino-European game market.
+- **Personal Development Coaching**: Coaching youth for building up individual development plans
+
+## Personal Interests
+
+- **Wildlife Conservation Volunteering**
+- **FPV Pilot**
+- **Kendo**
+- **Game & Film OST**
 
 ## Projects
 
