@@ -14,7 +14,7 @@ Previously also an assistant consultant at Roland Berger and A.T.Kearney, and a 
 
 ## Research Interests
 
-- **LLM-Based Agent Simulations:** AI NPC.
+- **LLM-Based Agent Simulations:** Multi-agents, AI NPC, AI Companions.
 - **Machine Learning:** Machine Unlearning.
 
 ## Professional Interests
