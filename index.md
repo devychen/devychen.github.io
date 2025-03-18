@@ -32,13 +32,13 @@ Previously also an assistant consultant at Roland Berger and A.T.Kearney, and a 
 
 ## Projects
 
-**A Gradient Adjust Approach to Machine Unlearning** (In progress. For SemEval 2025)  
+**A Gradient Adjust Approach to Machine Unlearning** (In progress. For SemEval 2025 and ACL 2025)  
 Github [Access](https://github.com/cicl-iscl/Machine_Unlearning) 
 
-**Experiencing Co-Creativity: The Practice and Evaluation of Writing Reality Show Scripts with ChatGPT-3.5 by Professionals**  
+**Experiencing Co-Creativity: The Practice and Evaluation of Writing Reality Show Scripts with ChatGPT-3.5 by Professionals** (Coursework. Graded 1.0)  
 Github [Access](https://github.com/devychen/Course_LLM_Implications)
 
-**Emotion Recognition of Pedagogical Agents in Education**  
+**Emotion Recognition of Pedagogical Agents in Education** (Coursework. Graded 1.0. Waiting for publication.)  
 Github [Access](https://github.com/devychen/Course_Pedagogical_Agents)
 
 <!-- 
