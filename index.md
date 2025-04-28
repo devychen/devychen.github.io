@@ -14,25 +14,24 @@ Previously also an assistant consultant at Roland Berger and A.T.Kearney, and a 
 
 ## Research Interests
 
-- **LLM-Based Agent Simulations:** Multi-agents, AI NPC, AI Companions.
+- **LLM-Based Agent Simulations:** Multi-agents, AI NPC, Conversational AI Companions.
 - **Machine Learning:** Machine Unlearning.
 
 ## Professional Interests
 
 - **Product Management:** Game products, AI products.
 - **Marketing:** Sino-European game market.
-- **Personal Development Coaching**: Coaching youth for building up individual development plans
 
 ## Personal Interests
 
-- **Wildlife Conservation Volunteering**
+- **Wildlife Conservation**
 - **FPV Pilot**
 - **Kendo**
 - **Game & Film OST**
 
 ## Projects
 
-**A Gradient Adjust Approach to Machine Unlearning** (In progress. For SemEval 2025 and ACL 2025)  
+**A Gradient Adjust Approach to Machine Unlearning** (Accepted. SemEval 2025 and ACL 2025)  
 Github [Access](https://github.com/cicl-iscl/Machine_Unlearning) 
 
 **Experiencing Co-Creativity: The Practice and Evaluation of Writing Reality Show Scripts with ChatGPT-3.5 by Professionals** (Coursework. Graded 1.0)  
