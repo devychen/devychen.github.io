@@ -9,17 +9,17 @@ Currently I am a Master student in Computational Linguistics at the Univeristy o
 I also hold these degrees: _MSc in Sociology_ at University of Oxford (UK), 
 _BA in Linguistics and Sociology_ at the University of Manchester (UK). <br>
 
-I have worked at ByteDance as a marketer at Game Publishing Business Sector for almost 2 years. 
+I have worked full-time at ByteDance as a marketing office at Game Publishing Business Sector. 
 Previously also an assistant consultant at Roland Berger and A.T.Kearney, and a TV producer at Mango TV (consider it as the Netflix in China).
 
 ## Research Interests
 
-- **LLM-Based Agent Simulations:** Multi-agents, AI NPC, Conversational AI Companions.
-- **Machine Learning:** Machine Unlearning.
+- **LLM-Based Agent Simulations:**  LLM Multi-agents, AI NPC, Conversational AI Companions.
 
 ## Professional Interests
 
-- **Product Management:** Game products, AI products.
+- **Product Marketing Management:** Digital products (Game, AI, etc...).
+- **User Growth**
 - **Marketing:** Sino-European game market.
 
 ## Personal Interests
