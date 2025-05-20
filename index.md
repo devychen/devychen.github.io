@@ -20,13 +20,11 @@ Previously also an assistant consultant at Roland Berger and A.T.Kearney, and a 
 
 - **Product Marketing Management:** Digital products (Game, AI, etc...).
 - **User Growth**
-- **Marketing:** Sino-European game market.
 
 ## Personal Interests
 
 - **Nature Photography**
 - **Kendo**
-- **Game & Film OST**
 
 ## Projects
 
