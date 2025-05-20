@@ -24,8 +24,7 @@ Previously also an assistant consultant at Roland Berger and A.T.Kearney, and a 
 
 ## Personal Interests
 
-- **Wildlife Conservation**
-- **FPV Pilot**
+- **Nature Photography**
 - **Kendo**
 - **Game & Film OST**
 
