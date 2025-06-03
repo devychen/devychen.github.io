@@ -9,7 +9,7 @@ Currently I am a Master student in Computational Linguistics at the Univeristy o
 I also hold these degrees: _MSc in Sociology_ at University of Oxford (UK), 
 _BA in Linguistics and Sociology_ at the University of Manchester (UK). <br>
 
-I have worked full-time at ByteDance as a marketing specialist at Game Publishing Business Sector, with a focus on partnership developments and ads attribution. 
+I have worked full-time at ByteDance as a marketing specialist at Game Publishing Business Sector, with a focus on partnership developments and performance attribution. 
 Previously also an assistant consultant at Roland Berger and A.T.Kearney, and a TV producer at Mango TV (consider it as the Netflix in China).
 
 ## Research Interests
@@ -18,13 +18,12 @@ Previously also an assistant consultant at Roland Berger and A.T.Kearney, and a 
 
 ## Professional Interests
 
-- **Product Marketing Management:** Digital products (Game, AI, etc...).
-- **User Growth**
+- **Performance Marketing:** Digital products (Game, AI, etc...).
 
 ## Personal Interests
 
-- **Nature Photography**
-- **Kendo**
+- Love music: game and film original soundtracks (no lyrics), musical, etc...
+- I pratice **Kendo**, which is a Japanese martial art.
 
 ## Projects
 
