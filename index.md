@@ -19,8 +19,7 @@ I have worked full-time at ByteDance as a marketing specialist at Game Publishin
 
 ## Professional Interests
 
-- **Data Analytics**: using data to improve user experience and drive product growth.
-- **Performance Marketing**: Digital products (Game, AI, etc...).
+- **Data Analytic, Performance Marketings**: using data to improve user experience and drive product growth.
 
 ## Personal Interests
 
@@ -49,8 +48,7 @@ Github [Access](https://github.com/devychen/Pedagogical_Agents_2023) <br>
 
 **The Relations Between Personality and Language Use** (Coursework. Graded 1.0) <br>
 Github [Access] <br>
-*Abstract*  <br>
-The study extract data from all series of Harry Potter films to analyse and investigate: Do language variables of the LIWC refect personality factors as in previous LIWC studies?
+*Abstract* The study extract data from all series of Harry Potter films to analyse and investigate: Do language variables of the LIWC refect personality factors as in previous LIWC studies?
 
 <!-- 
 {% include_relative _includes/publications.md %}
