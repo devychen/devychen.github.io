@@ -19,8 +19,8 @@ I have worked full-time at ByteDance as a marketing specialist at Game Publishin
 
 ## Professional Interests
 
-- **Data-Driven **
-- **Performance Marketing:** Digital products (Game, AI, etc...).
+- **Data Analytics**: using data to improve user experience and drive product growth.
+- **Performance Marketing**: Digital products (Game, AI, etc...).
 
 ## Personal Interests
 
