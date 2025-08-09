@@ -47,8 +47,8 @@ Github [Access](https://github.com/devychen/Pedagogical_Agents_2023) <br>
 
 
 **The Relations Between Personality and Language Use** (Coursework. Graded 1.0) <br>
-Github [Access] <br>
-*Abstract* The study extract data from all series of Harry Potter films to analyse and investigate: Do language variables of the LIWC refect personality factors as in previous LIWC studies?
+Github [Access](https://github.com/devychen/Course_Data_Science) <br>
+*Abstract* The study extract data from all series of Harry Potter films to analyse and investigate if language use truly reflect character personalities.
 
 <!-- 
 {% include_relative _includes/publications.md %}
