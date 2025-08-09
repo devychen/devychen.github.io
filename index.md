@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Currently seeking career opportunities in data-driven analytics professional.
+Currently seeking career opportunities in data-driven product analyst.
 
-In September, I will be a gradute in M.A. Computational Linguistics at the Univeristy of Tuebingen. <br>
+From October, I will be a gradute in M.A. Computational Linguistics at the Univeristy of Tuebingen. <br>
 
 I also hold these degrees: _MSc in Sociology_ at University of Oxford (UK), 
 _BA in Linguistics and Sociology_ at the University of Manchester (UK). <br>
@@ -21,16 +21,16 @@ I have worked full-time at ByteDance as a marketing specialist at Game Publishin
 
 - **Data Analytic, Performance Marketings**: using data to improve user experience and drive product growth.
 
-## Personal Interests
+## Hobby
 
-- Love music: game and film original soundtracks (no lyrics), musical, etc...
+- Love music: game and film original background music (e.g. Zelda, Kirby, Ori series)
 - I pratice **Kendo**, which is a Japanese martial art.
 
 ## Projects
 
 **Three Detectives in a Room: Investigating Character Consistency in Multi-Agent LLM Dialogue** (Ongoing)<br>
 Github [Access](https://github.com/devychen/detective_sim) <br>
-*Abstract* As LLMs increasingly simulate fictional characters, their role-playing fluency is impressive but often inconsistent, harming dialogue believability. While prior work focuses on single-agent simulation or architectures, multi-agent character consistency remains understudied—especially from a linguistic perspective. This thesis examines how well LLM agents maintain distinct characters during collaborative tasks, addressing a key gap in understanding multi-agent interactions. By analyzing linguistic consistency in collective problem-solving, it explores whether current models can sustain coherent character identities beyond isolated exchanges.
+*Abstract* As LLMs increasingly simulate fictional characters, their role-playing fluency is impressive but often inconsistent, harming dialogue believability. While prior work focuses on single-agent simulation or architectures, multi-agent character consistency remains understudied—especially from a linguistic perspective. This thesis examines how well LLM agents maintain distinct characters during collaborative tasks, addressing a key gap in understanding multi-agent interactions. By analysing linguistic consistency in collective problem-solving, it explores whether current models can sustain coherent character identities beyond isolated exchanges.
 
 **A Gradient Adjust Approach to Machine Unlearning** (Accepted. SemEval 2025 and ACL 2025)  <br>
 Github [Access](https://github.com/devychen/SemEval2025_Task4_NEKO) <br>
