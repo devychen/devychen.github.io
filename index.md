@@ -4,27 +4,25 @@ layout: homepage
 
 ## About Me
 
-Currently seeking career opportunities in data-driven product analyst.
+Currently a game producer at Virtuos.
 
-From October, I will be a gradute in M.A. Computational Linguistics at the Univeristy of Tuebingen. <br>
+A recent gradute in M.A. Computational Linguistics at the Univeristy of Tuebingen. I also hold these degrees: _MSc in Sociology_ at University of Oxford (UK), _BA in Linguistics and Sociology_ at the University of Manchester (UK). <br>
 
-I also hold these degrees: _MSc in Sociology_ at University of Oxford (UK), 
-_BA in Linguistics and Sociology_ at the University of Manchester (UK). <br>
-
-I have worked full-time at ByteDance as a marketing specialist at Game Publishing Business Sector, with a focus on partnership developments, growth and performance attribution. Previously also an assistant strategic consultant at Roland Berger and A.T.Kearney, and a TV producer at Mango TV (consider it as the Netflix in China). 
+I have worked full-time at ByteDance as a game publishing specialist. Previously also a TV producer at Mango TV (consider it as the Netflix in China). 
 
 ## Research Interests
 
-- **LLM-Based Agent Simulations:**  AI(LLM) NPC, Conversational AI Companions.
+- **LLM-Based Agent Simulations:**  AI/LLM NPC, Conversational AI Companions.
 
-## Professional Interests
-
-- **Data Analytic, Performance Marketings**: using data to improve user experience and drive product growth.
+## Research Interests
+- Game production.
+- Conversational AI or AI companion product manager.
 
 ## Hobby
 
-- Love music: game and film original background music (e.g. Zelda, Kirby, Ori series)
-- I pratice **Kendo**, which is a Japanese martial art.
+- Love instrumental OST music and games.
+- I regularly pratice Kendo.
+- Love hiking. A nature lover (birds and whales).
 
 ## Projects
 
